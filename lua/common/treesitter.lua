@@ -22,6 +22,8 @@ return {
 					"gleam",
 					"bash",
 				},
+				ignore_install = {},
+				modules = {},
 				sync_install = false,
 				highlight = { enable = true },
 				indent = { enable = true },
